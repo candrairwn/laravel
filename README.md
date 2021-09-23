@@ -1,3 +1,3 @@
-penggunaan
-php artisan serve 
+penggunaan<br>
+php artisan serve<br> 
 jalankan di browser
